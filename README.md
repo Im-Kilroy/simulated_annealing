@@ -1,2 +1,2 @@
-# simulated_annealing
+# Simulated Annealing
 Simulated annealing examples, focusing on TSP resolution
